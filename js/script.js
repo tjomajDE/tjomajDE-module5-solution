@@ -323,11 +323,3 @@ function insertItemPortionName(html,
 global.$dc = dc;
 
 })(window);
-
-
-
-
-
-global.$dc = dc;
-
-})(window);
